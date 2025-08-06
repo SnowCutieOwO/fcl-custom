@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name" translatable="false">Fold Craft Launcher</string>
+    <string name="app_name" translatable="false">星方块手机版</string>
 
     <string name="splash_agreement">FCL requires storage permission to manage and read game files. FCL is fully open-source on GitHub, so please rest assured about your data security. The permission is solely for the game to operate properly and poses no security risks.</string>
     <string name="splash_permission_msg">No storage permission, please grant Fold Craft Launcher the permission.</string>
@@ -894,7 +894,6 @@
     <string name="settings_launcher_close_skin_view">Close Skin Model Viewing</string>
     <string name="settings_launcher_animation_speed">Animation Speed</string>
     <string name="settings_launcher_vibrate_duration">Vibration Duration (For TouchController mod)</string>
-    <string name="settings_disable_fullscreen_input">Disable fullscreen input (For TouchController mod)</string>
 
     <string name="settings_memory">Memory</string>
     <string name="settings_memory_allocate_auto">%1$.1f GB Minimum / %2$.1f GB Allocated</string>

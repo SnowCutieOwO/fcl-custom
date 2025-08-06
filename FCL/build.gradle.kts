@@ -38,11 +38,11 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.tungsten.fcl.server"
+        applicationId = "com.mcxfk.fun.server"
         minSdk = libs.versions.minSdk.get().toInt()
         targetSdk = libs.versions.targetSdk.get().toInt()
-        versionCode = 1244
-        versionName = "1.2.4.4"
+        versionCode = 100
+        versionName = "1.0.0"
     }
 
     androidResources {

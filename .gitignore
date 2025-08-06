@@ -26,3 +26,6 @@ google-services.json
 # Android Profiling
 *.hprof
 FCL/src/main/java/com/mio/Main.kt
+
+LWGJL-Boat/bin
+LWGJL-Pojav/bin
