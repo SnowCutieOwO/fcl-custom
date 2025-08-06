@@ -27,5 +27,8 @@ google-services.json
 *.hprof
 FCL/src/main/java/com/mio/Main.kt
 
-LWGJL-Boat/bin
-LWGJL-Pojav/bin
+LWJGL-Boat/bin
+LWJGL-Pojav/bin
+
+# Disable core uploading
+FCL/src/main/assets/.minecraft
