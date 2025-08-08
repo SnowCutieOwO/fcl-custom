@@ -1102,3 +1102,4 @@
     <string name="supported_mc_version">Supported MC version:</string>
     <string name="message_check_renderer">The current renderer %s does not support this game version. Continuing to use it may cause rendering errors or game crashes! Do you want to continue?</string>
 </resources>
+    <string name="file_browser_provider" translatable="false">con.tunngsten.fcl.server.provider</string>
